@@ -11,6 +11,7 @@ Esse projeto utiliza do MongoDB com mongoose. Sendo assim, para poder utiliza-lo
 
 Uma vez criado o cluster você pode criar um arquivo .env e linkar a URL de acesso fornecida à uma variável local em .env chamando-a de "ATLAS_URI".  
 *Exemplo: "ATLAS_URI = ...chaveAPI"* 
+
 Feito isso, inicie a aplicação, dentro do diretório /backend com : "nodemon server.js".
   Se tudo ocorreu bem, a mensagem : "MongoDB database foi conectado com sucesso" aparecerá no seu console.
   </p>
