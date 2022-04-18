@@ -1,5 +1,6 @@
 # StudyWrapper
 Uma aplicação MERN de notas com categorização. Permite a criação de notas separadas por categoria, divisões e assuntos.
+
 ## Visual da aplicação
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -31,4 +32,4 @@ Se tudo ocorreu bem, a mensagem : _MongoDB database foi conectado com sucesso_ a
 
 ## Inicialização do frontend
 
- Instaladas as dependências, configurado o banco de dados e iniciado o servidor local, rode ``npm run dev`` para iniciar a aplicação NextJS.
+ Instaladas as dependências, configurado o banco de dados e iniciado o servidor local, rode ``npm run dev`` para iniciar a aplicação Vite.
